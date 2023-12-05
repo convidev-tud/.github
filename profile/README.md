@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-🧙 convidev develops research-based tools for quality assurance and consistency management for large software development projects.
+🧙 The convidev-tud org develops research-based tools for quality assurance and consistency management for large software modeling and development projects.
 
 ### Projects
 
