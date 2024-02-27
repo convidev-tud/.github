@@ -5,6 +5,7 @@
 ### Projects
 
 * **driftool** - A lightweigt CLI tool for branch variance analysis
+* **emf-graph-gen** - A configurabe model generator for hierarchical graphs using ecore
 
 ---
 
